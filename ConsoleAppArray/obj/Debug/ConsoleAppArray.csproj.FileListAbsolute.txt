@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\console app\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe.config
+C:\Users\user\source\repos\console app\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe
+C:\Users\user\source\repos\console app\ConsoleAppArray\bin\Debug\ConsoleAppArray.pdb
+C:\Users\user\source\repos\console app\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\console app\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\console app\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\console app\ConsoleAppArray\obj\Debug\ConsoleAppArray.exe
+C:\Users\user\source\repos\console app\ConsoleAppArray\obj\Debug\ConsoleAppArray.pdb

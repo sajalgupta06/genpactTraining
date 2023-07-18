@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\console app\Day 4\ConsoleAppDay4\obj\Debug\ConsoleAppDay4.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\console app\Day 4\ConsoleAppDay4\obj\Debug\ConsoleAppDay4.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\console app\Day 4\ConsoleAppDay4\obj\Debug\ConsoleAppDay4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\console app\Day 4\ConsoleAppDay4\bin\Debug\ConsoleAppDay4.exe.config
+C:\Users\user\source\repos\console app\Day 4\ConsoleAppDay4\bin\Debug\ConsoleAppDay4.exe
+C:\Users\user\source\repos\console app\Day 4\ConsoleAppDay4\bin\Debug\ConsoleAppDay4.pdb
+C:\Users\user\source\repos\console app\Day 4\ConsoleAppDay4\obj\Debug\ConsoleAppDay4.exe
+C:\Users\user\source\repos\console app\Day 4\ConsoleAppDay4\obj\Debug\ConsoleAppDay4.pdb

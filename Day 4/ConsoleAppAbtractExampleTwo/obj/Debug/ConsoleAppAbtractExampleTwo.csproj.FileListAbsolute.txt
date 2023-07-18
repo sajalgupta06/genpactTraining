@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\console app\Day 4\ConsoleAppAbtractExampleTwo\obj\Debug\ConsoleAppAbtractExampleTwo.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\console app\Day 4\ConsoleAppAbtractExampleTwo\obj\Debug\ConsoleAppAbtractExampleTwo.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\console app\Day 4\ConsoleAppAbtractExampleTwo\obj\Debug\ConsoleAppAbtractExampleTwo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\console app\Day 4\ConsoleAppAbtractExampleTwo\bin\Debug\ConsoleAppAbtractExampleTwo.exe.config
+C:\Users\user\source\repos\console app\Day 4\ConsoleAppAbtractExampleTwo\bin\Debug\ConsoleAppAbtractExampleTwo.exe
+C:\Users\user\source\repos\console app\Day 4\ConsoleAppAbtractExampleTwo\bin\Debug\ConsoleAppAbtractExampleTwo.pdb
+C:\Users\user\source\repos\console app\Day 4\ConsoleAppAbtractExampleTwo\obj\Debug\ConsoleAppAbtractExampleTwo.exe
+C:\Users\user\source\repos\console app\Day 4\ConsoleAppAbtractExampleTwo\obj\Debug\ConsoleAppAbtractExampleTwo.pdb
