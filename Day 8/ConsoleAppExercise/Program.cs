@@ -85,6 +85,11 @@ namespace ConsoleAppExercise
                             gameDel += new GameDel(game.TenthSpin);
                             break;
                         }
+                        default:
+                        {
+                            Console.WriteLine("Invalid Number");
+                            break;
+                        }
 
                 }
 
