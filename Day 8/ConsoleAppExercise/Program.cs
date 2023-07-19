@@ -91,6 +91,7 @@ namespace ConsoleAppExercise
                 spin++;
             }
 
+            gameDel();
           
             if(game.energyLevel>=4 && game.winningProb > 60)
             {
