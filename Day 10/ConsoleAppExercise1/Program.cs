@@ -18,6 +18,7 @@ namespace ConsoleAppExercise1
             ldc.Add("Tom");
             ldc.Remove("Sam");
 
+            ldc.Search("Tom");
             ldc.Dispose();
 
             Console.ReadKey();
