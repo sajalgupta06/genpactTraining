@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\console app\Day 10\nUnitExercise\bin\Debug\nUnitExercise.dll
+C:\Users\user\source\repos\console app\Day 10\nUnitExercise\bin\Debug\nUnitExercise.pdb
+C:\Users\user\source\repos\console app\Day 10\nUnitExercise\bin\Debug\nunit.framework.dll
+C:\Users\user\source\repos\console app\Day 10\nUnitExercise\bin\Debug\nunit.framework.xml
+C:\Users\user\source\repos\console app\Day 10\nUnitExercise\obj\Debug\nUnitExercise.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\console app\Day 10\nUnitExercise\obj\Debug\nUnitExercise.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\console app\Day 10\nUnitExercise\obj\Debug\nUnitExercise.csproj.CopyComplete
+C:\Users\user\source\repos\console app\Day 10\nUnitExercise\obj\Debug\nUnitExercise.dll
+C:\Users\user\source\repos\console app\Day 10\nUnitExercise\obj\Debug\nUnitExercise.pdb

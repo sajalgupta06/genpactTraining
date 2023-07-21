@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\console app\Day 10\NUnitLib\bin\Debug\NUnitLib.dll
+C:\Users\user\source\repos\console app\Day 10\NUnitLib\bin\Debug\NUnitLib.pdb
+C:\Users\user\source\repos\console app\Day 10\NUnitLib\bin\Debug\nunit.framework.dll
+C:\Users\user\source\repos\console app\Day 10\NUnitLib\bin\Debug\nunit.framework.xml
+C:\Users\user\source\repos\console app\Day 10\NUnitLib\obj\Debug\NUnitLib.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\console app\Day 10\NUnitLib\obj\Debug\NUnitLib.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\console app\Day 10\NUnitLib\obj\Debug\NUnitLib.csproj.CopyComplete
+C:\Users\user\source\repos\console app\Day 10\NUnitLib\obj\Debug\NUnitLib.dll
+C:\Users\user\source\repos\console app\Day 10\NUnitLib\obj\Debug\NUnitLib.pdb
