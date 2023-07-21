@@ -37,7 +37,13 @@ namespace TestingExercise
         public void DivideTest()
         {
             Calc calculator = new Calc();
-            Assert.AreEqual(2, calculator.Divide(8, 4));
+            Assert.AreEqual(2, calculator.Divide(8,4 ));
+        }
+
+        public void DivideExecptionTest()
+        {
+            Calc calculator = new Calc();
+            Assert.Throws<DivideByZeroException>(()=> calculator.Divide(8, 0));
         }
 
         [Test]

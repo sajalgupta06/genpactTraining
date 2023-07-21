@@ -28,7 +28,7 @@ namespace TestingExercise
         {
             if(j==0)
             {
-                throw new Exception("Division by zero not possible");
+                throw new DivideByZeroException("Division by zero not possible");
             }
             return i / j;
         }
