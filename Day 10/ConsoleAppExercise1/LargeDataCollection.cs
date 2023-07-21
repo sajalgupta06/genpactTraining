@@ -30,6 +30,7 @@ namespace ConsoleAppExercise1
         public virtual void Dispose(bool disposing)
         {
             list = null;
+            Console.WriteLine("The list ha been disposed");
         }
 
         public void Dispose()
