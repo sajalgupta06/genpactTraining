@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\console app\Day 8\ConsoleAppday8Exercise 2\obj\Debug\ConsoleAppday8Exercise 2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\console app\Day 8\ConsoleAppday8Exercise 2\obj\Debug\ConsoleAppday8Exercise 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\console app\Day 8\ConsoleAppday8Exercise 2\obj\Debug\ConsoleAppday8Exercise 2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\console app\Day 8\ConsoleAppday8Exercise 2\bin\Debug\ConsoleAppday8Exercise 2.exe.config
+C:\Users\user\source\repos\console app\Day 8\ConsoleAppday8Exercise 2\bin\Debug\ConsoleAppday8Exercise 2.exe
+C:\Users\user\source\repos\console app\Day 8\ConsoleAppday8Exercise 2\bin\Debug\ConsoleAppday8Exercise 2.pdb
+C:\Users\user\source\repos\console app\Day 8\ConsoleAppday8Exercise 2\obj\Debug\ConsoleAppday8Exercise 2.exe
+C:\Users\user\source\repos\console app\Day 8\ConsoleAppday8Exercise 2\obj\Debug\ConsoleAppday8Exercise 2.pdb
