@@ -20,11 +20,26 @@ namespace ConsoleAppExercise1
         public void Add(string item)
         {
             list.Add(item);
+            Console.WriteLine(item + "is added to the list");
         }
 
         public void Remove(string item)
         {
             list.Remove(item);
+            Console.WriteLine(item + "is Removed from the list");
+        }
+
+        public void Search(string item)
+        {
+           int index = list.IndexOf(item);
+            if(index != -1)
+            {
+                Console.WriteLine("Item is present at index" + index);
+            }
+            else
+            {
+                Console.WriteLine("Item not found");
+            }
         }
 
         public virtual void Dispose(bool disposing)

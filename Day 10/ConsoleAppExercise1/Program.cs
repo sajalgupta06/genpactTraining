@@ -10,6 +10,18 @@ namespace ConsoleAppExercise1
     {
         static void Main(string[] args)
         {
+            List<string> list = new List<string>() { "name1","name2"};
+           
+            LargeDataCollection ldc = new LargeDataCollection(list);
+
+            ldc.Add("Sam");
+            ldc.Add("Tom");
+            ldc.Remove("Sam");
+
+            ldc.Dispose();
+
+            Console.ReadKey();
+
         }
     }
 }
