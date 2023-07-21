@@ -19,6 +19,9 @@ namespace ConsoleAppExercise1
             ldc.Remove("Sam");
 
             ldc.Search("Tom");
+
+            Console.WriteLine("Item in the List are");
+            ldc.Print();
             ldc.Dispose();
 
             Console.ReadKey();

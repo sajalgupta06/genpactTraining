@@ -25,8 +25,28 @@ namespace ConsoleAppExercise1
 
         public void Remove(string item)
         {
-            list.Remove(item);
-            Console.WriteLine(item + " is Removed from the list");
+            int index = list.IndexOf(item);
+            if (index != -1)
+            {
+                list.Remove(item);
+                Console.WriteLine(item + " is Removed from the list");
+
+
+            }
+            else
+            {
+
+            Console.WriteLine(item + " does not exist");
+            }
+
+        }
+
+        public void Print()
+        {
+            foreach (string item in list)
+            {
+                Console.WriteLine(item);
+            }
         }
 
         public void Search(string item)
