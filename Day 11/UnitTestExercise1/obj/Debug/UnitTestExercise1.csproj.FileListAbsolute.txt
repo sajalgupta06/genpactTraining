@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\console app\Day 11\UnitTestExercise1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\source\repos\console app\Day 11\UnitTestExercise1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\source\repos\console app\Day 11\UnitTestExercise1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\source\repos\console app\Day 11\UnitTestExercise1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\user\source\repos\console app\Day 11\UnitTestExercise1\bin\Debug\UnitTestExercise1.dll
+C:\Users\user\source\repos\console app\Day 11\UnitTestExercise1\bin\Debug\UnitTestExercise1.pdb
+C:\Users\user\source\repos\console app\Day 11\UnitTestExercise1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\source\repos\console app\Day 11\UnitTestExercise1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\source\repos\console app\Day 11\UnitTestExercise1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\source\repos\console app\Day 11\UnitTestExercise1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\source\repos\console app\Day 11\UnitTestExercise1\obj\Debug\UnitTestExercise1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\console app\Day 11\UnitTestExercise1\obj\Debug\UnitTestExercise1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\console app\Day 11\UnitTestExercise1\obj\Debug\UnitTestExercise1.csproj.CopyComplete
+C:\Users\user\source\repos\console app\Day 11\UnitTestExercise1\obj\Debug\UnitTestExercise1.dll
+C:\Users\user\source\repos\console app\Day 11\UnitTestExercise1\obj\Debug\UnitTestExercise1.pdb
+C:\Users\user\source\repos\console app\Day 11\UnitTestExercise1\bin\Debug\Customer.dll
+C:\Users\user\source\repos\console app\Day 11\UnitTestExercise1\bin\Debug\Customer.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\console app\Day 11\Exercise1Day11\bin\Debug\Exercise1Day11.exe.config
+C:\Users\user\source\repos\console app\Day 11\Exercise1Day11\bin\Debug\Exercise1Day11.exe
+C:\Users\user\source\repos\console app\Day 11\Exercise1Day11\bin\Debug\Exercise1Day11.pdb
+C:\Users\user\source\repos\console app\Day 11\Exercise1Day11\obj\Debug\Exercise1Day11.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\console app\Day 11\Exercise1Day11\obj\Debug\Exercise1Day11.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\console app\Day 11\Exercise1Day11\obj\Debug\Exercise1Day11.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\console app\Day 11\Exercise1Day11\obj\Debug\Exercise1Day11.exe
+C:\Users\user\source\repos\console app\Day 11\Exercise1Day11\obj\Debug\Exercise1Day11.pdb
+C:\Users\user\source\repos\console app\Day 11\Exercise1Day11\bin\Debug\Customer.dll
+C:\Users\user\source\repos\console app\Day 11\Exercise1Day11\bin\Debug\Customer.pdb
+C:\Users\user\source\repos\console app\Day 11\Exercise1Day11\obj\Debug\Exercise1Day11.csproj.CopyComplete

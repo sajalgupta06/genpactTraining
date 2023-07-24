@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\console app\Day 11\Customer\bin\Debug\Customer.dll
+C:\Users\user\source\repos\console app\Day 11\Customer\bin\Debug\Customer.pdb
+C:\Users\user\source\repos\console app\Day 11\Customer\obj\Debug\Customer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\console app\Day 11\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\console app\Day 11\Customer\obj\Debug\Customer.dll
+C:\Users\user\source\repos\console app\Day 11\Customer\obj\Debug\Customer.pdb
