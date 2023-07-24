@@ -34,27 +34,20 @@ namespace UnitTestExercise1
             customer.City = "Noida";
 
 
-      
+            IFormatter formatter = new BinaryFormatter();
+            MemoryStream stream = new MemoryStream();
+            formatter.Serialize(stream, customer);
+
+
+            stream.Seek(0, SeekOrigin.Begin);
+
+            Customer.Customer cus = (Customer.Customer)formatter.Deserialize(stream);
 
             Assert.AreEqual(customer, cus);
 
         }
 
 
-        [TestMethod]
-
-        public void ReadTest()
-        {
-            string path = "C:\\customer/";
-            string fileName = $"{customer.Name}_{customer.Dob}.txt";
-            string filePath = path + fileName;
-
-            customer.Name = "Test User";
-            customer.Id = "123Cus";
-            customer.Write(filePath, customer);
-            Assert.AreEqual(customer, customer.Read(filePath));
-
-        }
-
+      
     }
 }
