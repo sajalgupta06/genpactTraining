@@ -14,40 +14,39 @@ namespace UnitTestExercise1
         Customer.Customer customer;
         [TestInitialize]
 
-        public void setup()
+        public void Setup()
         {
             customer = new Customer.Customer();
         }
 
         [TestMethod]
 
-
-
         public void Test()
         {
-            string path = "C:\\customer/";
-            string fileName = $"{customer.Name}_{customer.Dob}.txt";
-            string filePath = path + fileName;
-
+           
             customer.Name = "Test User";
             customer.Id = "123Cus";
             customer.City = "Noida";
+            customer.Dob = "12 June";
+            customer.Address = "Noida";
 
 
+            string filePath = "C:\\OurFile.txt";
             IFormatter formatter = new BinaryFormatter();
-            MemoryStream stream = new MemoryStream();
-            formatter.Serialize(stream, customer);
 
 
-            stream.Seek(0, SeekOrigin.Begin);
+            using(FileStream fs = new FileStream(filePath, FileMode.Create,FileAccess.Write)) {
+            formatter.Serialize(fs, customer);
+            }
 
-            Customer.Customer cus = (Customer.Customer)formatter.Deserialize(stream);
+            using (FileStream fs = new FileStream(filePath, FileMode.Open, FileAccess.Read))
+            {
+                Customer.Customer desCUstomer = (Customer.Customer)formatter.Deserialize(fs);
+                Assert.AreEqual(customer.Id, desCUstomer.Id);
+            }
 
-            Assert.AreEqual(customer, cus);
 
-        }
-
-
-      
+            
+        }    
     }
 }
