@@ -30,8 +30,11 @@ exec display
 
 
 create proc totalTax
+
+
 @cName varchar(50),
 @tax int output
+with encryption
 as
 begin
 select @tax = sum(p.PTax)  from Products p where p.PCompany =@cName
