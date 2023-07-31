@@ -21,12 +21,16 @@ alter trigger trgFeePayConfirmation
 on Fee
 after insert
 as
+--declare variables 
 declare @id int
 declare @SFees  decimal(6,2)
 declare @name varchar(30)
 declare @email varchar(50)
+
+--get variables from Fee table
 select @id = Sid from inserted
 select @SFees = SFees from inserted
+
 begin
 select @name = SName , @email = SEMail from Student where Sid = @id
 insert into PayConfirmation values(@id ,@name,@email,@SFees,GETDATE())
