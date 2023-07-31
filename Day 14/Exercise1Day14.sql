@@ -29,8 +29,7 @@ end
 exec display
 
 
-create proc totalTax
-
+alter proc totalTax
 
 @cName varchar(50),
 @tax int output
