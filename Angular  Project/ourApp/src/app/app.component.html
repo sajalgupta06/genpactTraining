@@ -1,0 +1,17 @@
+<h1>Team INfo</h1>
+
+<ul *ngFor = "let team of teams" [ngSwitch]="team.iplTitle">
+
+
+<span *ngSwitchCase=2>
+  <li class="winner"> <img src={{team.tLogo}}/> <br/>  Id :{{team.tid}}  <br/>  Name :{{team.tName}}  <br/> Email : {{team.sEmail}}<br/>  Slogan : {{team.tSlogan}}  <br/>
+      Title Won: {{team.iplTitle}} </li>
+</span>
+<span *ngSwitchCase=1>
+  <li class="looser">  <img src={{team.tLogo}}/> <br/> Id :{{team.tid}}  <br/>  Name :{{team.tName}}  <br/> Email : {{team.sEmail}}<br/>  Slogan : {{team.tSlogan}}  <br/>
+      Title Won: {{team.iplTitle}}</li>
+</span>
+ 
+
+
+</ul>

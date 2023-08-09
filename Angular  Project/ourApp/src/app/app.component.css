@@ -1,0 +1,9 @@
+.winner{
+    background: green;
+    color: white;
+}
+
+.looser{
+    background: red;
+    color: white;
+}

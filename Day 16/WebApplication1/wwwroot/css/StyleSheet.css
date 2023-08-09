@@ -1,0 +1,45 @@
+﻿body {
+}
+
+form {
+    position: relative;
+    left: 50%;
+    top: 100px;
+}
+
+    form label {
+        display: block;
+        margin: 5px 0px;
+        padding: 3px;
+    }
+
+    form select {
+        width: 180px;
+        margin-top: 5px;
+        border: 1px solid orange;
+    }
+
+    form input {
+        display: block;
+        margin: 5px 0px;
+        padding: 3px;
+        border:1px solid orange;
+    }
+
+    form ul {
+        list-style: none;
+    }
+
+        form ul li input {
+            display: inline;
+        }
+
+        form ul li label {
+            display: inline;
+        }
+
+    form button {
+        background: orange;
+        color: #fff;
+        margin-top: 5px;
+    }
