@@ -21,7 +21,13 @@
                 <td>@obj.CName</td>
                 <td>@obj.CFee</td>
                 <td>@obj.Technology</td>
-                <td>@obj.Status</td>
+                @if(@obj.Status){
+                <td>Active</td>
+                }
+                else{
+                <td>Inactive</td>
+                }
+                
               
             </tr>
             }
