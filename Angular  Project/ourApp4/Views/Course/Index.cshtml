@@ -1,0 +1,31 @@
+﻿@model List<Course>
+
+<h1>Courses</h1>
+
+<h3>No Of Courses : @Model.Count</h3>
+<table>
+    <thead>
+    <tr>
+
+   <th>CID</th>
+   <th>CNAme</th>
+   <th>CFee</th>
+   <th>Technology</th>
+   <th>Status</th>
+    </tr>
+    </thead>
+    <tbody>
+            @foreach (var obj in Model)
+            {<tr>
+
+                <td>@obj.CourseId</td>
+                <td>@obj.CName</td>
+                <td>@obj.CFee</td>
+                <td>@obj.Technology</td>
+                <td>@obj.Status</td>
+              
+            </tr>
+            }
+        </tbody>
+  
+</table>

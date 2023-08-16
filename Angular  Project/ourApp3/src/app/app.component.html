@@ -1,0 +1,12 @@
+<h1>Form</h1>
+
+<form (ngSubmit)="obj.addContact()">
+  <input type="text" placeholder="ENter name" id="name" name="name" [(ngModel)]="obj.newContact.name" >
+  <input type="number" placeholder="ENter phone" id="phone" name ="phone" [(ngModel)]="obj.newContact.phone" >
+  <button type="submit">Submit</button>
+
+  <ul *ngFor = "let c of obj.contacts">
+    <li>{{c.name}} :  {{c.phone}}</li>
+  </ul>
+
+</form>
