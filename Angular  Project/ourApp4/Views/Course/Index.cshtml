@@ -1,14 +1,13 @@
 ﻿@model List<Course>
 
-<h1>Courses</h1>
+<h1 class="p-4">Courses</h1>
 
-<h3>No Of Courses : @Model.Count</h3>
-<table>
+<h5>No Of Courses : @Model.Count</h5>
+<table class="table table-bordered">
     <thead>
     <tr>
-
    <th>CID</th>
-   <th>CNAme</th>
+   <th>CName</th>
    <th>CFee</th>
    <th>Technology</th>
    <th>Status</th>
@@ -27,5 +26,5 @@
             </tr>
             }
         </tbody>
-  
+    
 </table>
