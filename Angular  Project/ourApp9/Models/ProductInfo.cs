@@ -1,10 +1,13 @@
 ﻿using Microsoft.VisualBasic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ourApp9.Models
 {
     public class ProductInfo
     {
+        [DatabaseGeneratedAttribute(DatabaseGeneratedOption.Identity)]
+        [Key]
         public int Id { get; set; }
         public string PName { get; set; }
         public int PPrice { get; set; }
