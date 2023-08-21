@@ -4,7 +4,6 @@ using ourApp4.Models;
 
 namespace ourApp4.Controllers
 {
-   
     public class CourseController : Controller
     {
         public readonly ApplicationDbContext _db;
@@ -14,7 +13,7 @@ namespace ourApp4.Controllers
         }
         public IActionResult Index()
         {
-            List<Course>obj = _db.Courses.ToList();
+            List<Course> obj = _db.Courses.ToList();
             return View(obj);
         }
     }

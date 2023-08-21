@@ -9,7 +9,7 @@ namespace ourApp4.Models
         public string CName { get; set; }
         public int CFee { get; set; }
         public bool Status { get; set; }
-        public string Technology { get; set; }      
+        public string Technology { get; set; }
 
     }
 }
